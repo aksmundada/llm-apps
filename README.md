@@ -122,4 +122,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 For questions, suggestions, or feedback:
 
 * Email: [aksmundada@gmail.com](mailto:aksmundada@gmail.com) ✉️
+* LinkedIn: [Akshay Mundada](https://www.linkedin.com/in/akshaymundada)🔗
 * GitHub: [https://github.com/aksmundada](https://github.com/aksmundada) 🌐 
